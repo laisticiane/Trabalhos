@@ -7,6 +7,6 @@ Repositório com scripts SQLs disponibilizados para fins de aprendizagem em banc
 ## Trabalho 01
 
 Com base no script MinhaCaixa.sql portar ele para os seguintes SGBDs
-..*MySQL
-..*PostgreSQL
-..*Oracle
+*MySQL
+*PostgreSQL
+*Oracle
