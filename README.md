@@ -14,3 +14,6 @@ Com base no script MinhaCaixa.sql que foi desenvolvido para MSSQL Server portar 
 Os participantes que não vão estar nas equipes dos SGBDs citados acima vão entrar no projeto do banco de dados para o e-commerce da TrekPix
 * RH/Pessoal
 * Financeiro/Tesouraria
+* Compras/Recebimento
+* Cliente/Atendimento
+* Vendas/Faturamento
