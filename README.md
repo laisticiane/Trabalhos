@@ -8,6 +8,7 @@ Repositório com scripts SQLs disponibilizados para fins de aprendizagem em banc
 
 Com base no script MinhaCaixa.sql que foi desenvolvido para MSSQL Server portar ele para os seguintes SGBDs
 * MySQL
+
 Daniel
 Daniel Custodio
 Leandro
@@ -20,6 +21,7 @@ Gustavo Raphael
 João Reis
 
 * PostgreSQL
+
 Luan Souza
 Rafael Lopes
 Lais
@@ -27,6 +29,7 @@ Guilerme Rocha
 Alexandre
 
 * Oracle
+
 William
 Gustavo
 Marcos
