@@ -22,6 +22,18 @@ Luan Souza, Rafael Lopes, Lais, Guilerme Rocha, Alexandre,
 
 William, Gustavo, Marcos, Lucas, Gustavo cesar, Douglas, Caio, José Sar
 
+* SQL Server
+
+alexandre, carlito, gabriel, Guilherme rodrigues blank	
+gustavo alexsander ruske, jefferson de souza gaieuski	
+joão marcos schmalz, joão paulo furlanetto de souza	
+joão vitor borba paul, karoline zimermann de souza	
+luan sergio de lima ribas, marcelo willyan de sena	
+marco aurélio dalacort marques, mayke da rosa herbst	
+ricardo adilson da silva, samuel joão geron,
+william rozin gaspar, willian vilson da cruz
+
+
 Os participantes que não vão estar nas equipes dos SGBDs citados acima vão entrar no projeto do banco de dados para o e-commerce da TrekPix
 
 
