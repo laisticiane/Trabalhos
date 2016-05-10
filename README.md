@@ -6,7 +6,10 @@ Repositório com scripts SQLs disponibilizados para fins de aprendizagem em banc
 
 ## Trabalho 01
 
-Com base no script MinhaCaixa.sql que foi desenvolvido para MSSQL Server portar ele para os seguintes SGBDs
+Com base no script MinhaCaixa.sql que foi desenvolvido para MSSQL Server portar ele para os SGBDs listados abaixo.
+Cada equipe terá que entregar um Esquema do Banco de Dados, um DER feito no BRModelo e um arquivo SQL para a criação do 
+banco.
+
 * MySQL
 
 Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
