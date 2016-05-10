@@ -9,40 +9,20 @@ Repositório com scripts SQLs disponibilizados para fins de aprendizagem em banc
 Com base no script MinhaCaixa.sql que foi desenvolvido para MSSQL Server portar ele para os seguintes SGBDs
 * MySQL
 
-Daniel
-Daniel Custodio
-Leandro
-Ricardo
-Juan
-Marco
-Marcelo
-Jeferson
-Gustavo Raphael
-João Reis
+Daniel, Daniel Custodio, Leandro, Ricardo, Juan, Marco, Marcelo, Jeferson, Gustavo Raphael, João Reis
 
 * PostgreSQL
 
-Luan Souza
-Rafael Lopes
-Lais
-Guilerme Rocha
-Alexandre
+Luan Souza, Rafael Lopes, Lais, Guilerme Rocha, Alexandre, 
 
 * Oracle
 
-William
-
-Gustavo
-
-Marcos
-
-Lucas
-Gustavo cesar
-Douglas
-Caio
-José Sar
+William, Gustavo, Marcos, Lucas, Gustavo cesar, Douglas, Caio, José Sar
 
 Os participantes que não vão estar nas equipes dos SGBDs citados acima vão entrar no projeto do banco de dados para o e-commerce da TrekPix
+
+
+
 * RH/Pessoal
 * Financeiro/Tesouraria
 * Compras/Recebimento
