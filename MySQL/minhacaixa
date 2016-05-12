@@ -1,0 +1,11 @@
+@@ -0,0 +1,10 @@
+ +create database minhacaixa;
+ +use minhacaixa;
+ +create table cliente (
+ +  clienteCodigo int identity,
+ +  ClienteNome varchar(50),
+ +  rg int
+ +  constraint PK_Cliente primary key (clienteCodigo, rg)
+ +);
+ +
+ +insert into cliente ( clienteNome, rg) values ("Juan Victor", 123456);
