@@ -1,0 +1,19 @@
+/*
+O banco de dados não é criado via código, apenas pode ser criado pelo SGBD pgAdmin,
+nele pode ser definido as configurações do banco e em seguida ele é criado exibindo o codigo que foi executado.
+CREATE DATABASE MinhaCaixa  
+  WITH OWNER = postgres -- Usuario do servidor que será o dono do BD.
+       ENCODING = 'UTF8' -- Tipo de codificação que será utilizado.
+       TABLESPACE = pg_default -- Aonde o BD será criado físicamente.
+       --LC_COLLATE = 'Portuguese_Brazil.1252'
+       --LC_CTYPE = 'Portuguese_Brazil.1252'
+       CONNECTION LIMIT = -1; -- Numero maximo de conexões simultaneas ao BD.
+*/
+CREATE TABLE Grupo
+(
+GrupoCodigo SERIAL, --Auto incremento habilitado
+GrupoNome VARCHAR(50),
+GrupoRazaoSocial VARCHAR(50),
+GrupoCNPJ BIGINT,
+CONSTRAINT PK_Grupo PRIMARY KEY (GrupoCodigo)
+);
