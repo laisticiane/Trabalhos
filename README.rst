@@ -26,6 +26,7 @@ William, Gustavo Alexsander Ruske, Marcos, Lucas, Gustavo cesar, Douglas, Caio, 
 * SQL Server
 
 Rodrigo Dornel `@rdornel <https://github.com/rdornel>`_
+
 alexandre, carlito, gabriel, Guilherme rodrigues blank,
 jefferson de souza gaieuski	
 joão marcos schmalz, joão paulo furlanetto de souza	
