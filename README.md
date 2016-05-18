@@ -20,12 +20,12 @@ Luan Souza, Rafael Lopes, Lais, Guilerme Rocha, Alexandre,
 
 * Oracle
 
-William, Gustavo, Marcos, Lucas, Gustavo cesar, Douglas, Caio, José Sar
+William, Gustavo Alexsander Ruske, Marcos, Lucas, Gustavo cesar, Douglas, Caio, José Sar
 
 * SQL Server
 
-alexandre, carlito, gabriel, Guilherme rodrigues blank	
-gustavo alexsander ruske, jefferson de souza gaieuski	
+alexandre, carlito, gabriel, Guilherme rodrigues blank,
+jefferson de souza gaieuski	
 joão marcos schmalz, joão paulo furlanetto de souza	
 joão vitor borba paul, karoline zimermann de souza	
 luan sergio de lima ribas, marcelo willyan de sena	
