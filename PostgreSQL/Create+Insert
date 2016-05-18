@@ -1,0 +1,18 @@
+create table Cachorro (
+  id serial primary key,
+  nome varchar(10),
+  idade int
+);
+
+insert into Cachorro (nome, idade) values (
+  'Thor',
+  1
+),
+(
+ 'Valdirene',
+  2
+),
+(
+ 'Lady',
+  7
+);
