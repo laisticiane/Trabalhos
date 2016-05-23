@@ -1,15 +1,22 @@
-﻿
-CREATE DATABASE MinhaCaixa  
-/*
-  Informações opcionais que definem os paramentros do BD
-  
-  WITH OWNER = postgres -- Usuario do servidor que será o dono do BD.
-       ENCODING = 'UTF8' -- Tipo de codificação que será utilizado.
-       TABLESPACE = pg_default -- Aonde o BD será criado físicamente.
-       --LC_COLLATE = 'Portuguese_Brazil.1252'
-       --LC_CTYPE = 'Portuguese_Brazil.1252'
-       CONNECTION LIMIT = -1; -- Numero maximo de conexões simultaneas ao BD.
+﻿/*
+CREATE DATABASE MinhaCaixa;  
+  --Informações opcionais que definem os paramentros do BD
+  WITH OWNER = postgres 		-- Usuario do servidor que será o dono do BD.
+       ENCODING = 'UTF8' 		-- Tipo de codificação que será utilizado.
+       TABLESPACE = pg_default 		-- Aonde o BD será criado físicamente.
+       LC_COLLATE = 'Portuguese_Brazil.1252'
+       LC_CTYPE = 'Portuguese_Brazil.1252'
+       CONNECTION LIMIT = -1; 		-- Numero maximo de conexões simultaneas ao BD.
 */
+/*
+Para criar o BD, é mais simples fazer pelo SGBD, via codigo também funciona
+porém é necessario desconectar e reconectar no servidor para aplicar a alteração
+sendo que no postgre não existe o comando USE DATABASE
+*/
+
+
+ALTER DATABASE "MinhaCaixa" SET DATESTYLE TO iso, YMD;
+
 CREATE TABLE Grupo
 (
 GrupoCodigo SERIAL, --Auto incremento habilitado
