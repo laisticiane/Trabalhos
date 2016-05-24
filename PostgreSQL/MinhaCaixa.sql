@@ -14,6 +14,17 @@ porém é necessario desconectar e reconectar no servidor para aplicar a altera�
 sendo que no postgre não existe o comando USE DATABASE
 */
 
+/* CODIGO AINDA EM EDIÇÃO
+DO $$ 
+BEGIN
+  IF EXISTS (SELECT 1 FROM pg_database WHERE datname = 'MinhaCaixa') THEN
+    ALTER DATABASE MinhaCaixa CONNECTION LIMIT 0;
+    PERFORM pg_terminate_backend(pid) FROM pg_stat_activity WHERE datname = 'MinhaCAixa' AND pid != pg_backend_pid();
+  END IF;
+END; 
+$$;
+DROP DATABASE IF EXISTS MinhaCaixa;
+*/
 
 ALTER DATABASE "MinhaCaixa" SET DATESTYLE TO iso, YMD;
 
