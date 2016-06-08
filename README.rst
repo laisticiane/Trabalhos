@@ -1,4 +1,4 @@
-.. figure:: logounivillesis.jpg
+﻿.. figure:: logounivillesis.jpg
   :alt: Univille ENG
 
 # BDASISUniville
